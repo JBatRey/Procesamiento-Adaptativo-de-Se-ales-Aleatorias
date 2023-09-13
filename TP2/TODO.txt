@@ -1,0 +1,3 @@
+* Generar los audios para reproducir
+* Ver bien el tema del Jo y el orden de M
+
